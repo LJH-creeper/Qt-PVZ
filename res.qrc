@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Background.jpg</file>
+        <file>img/logo.png</file>
+        <file>img/Shop.png</file>
+        <file>img/Shovel.png</file>
+        <file>img/ShovelBank.png</file>
+        <file>img/LawnMower.png</file>
+        <file>img/Card.png</file>
+        <file>img/Peashooter.png</file>
+        <file>img/PotatoMine.png</file>
+        <file>img/Repeater.png</file>
+        <file>img/SnowPea.png</file>
+        <file>img/SunFlower.png</file>
+        <file>img/WallNut.png</file>
+        <file>img/CherryBomb.png</file>
+        <file>img/Button.png</file>
+        <file>img/Peashooter.gif</file>
+        <file>img/Pea.png</file>
+        <file>img/Sun.gif</file>
+        <file>img/SunFlower.gif</file>
+        <file>img/Repeater.gif</file>
+        <file>img/PeaSnow.png</file>
+        <file>img/SnowPea.gif</file>
+        <file>img/ZombieWalk1.gif</file>
+        <file>img/ZombieDie.gif</file>
+        <file>img/ZombieHead.gif</file>
+        <file>img/ZombieAttack.gif</file>
+        <file>img/ConeZombieAttack.gif</file>
+        <file>img/ConeZombieWalk.gif</file>
+        <file>img/BucketZombieAttack.gif</file>
+        <file>img/BucketZombieWalk.gif</file>
+        <file>img/ScreenZombieAttack.gif</file>
+        <file>img/ScreenZombieWalk.gif</file>
+        <file>img/FootballZombieAttack.gif</file>
+        <file>img/FootballZombieDie.gif</file>
+        <file>img/FootballZombieWalk.gif</file>
+        <file>img/Burn.gif</file>
+        <file>img/CherryBomb.gif</file>
+        <file>img/Boom.gif</file>
+        <file>img/WallNut.gif</file>
+        <file>img/WallNut2.gif</file>
+        <file>img/WallNut1.gif</file>
+        <file>img/PotatoMine.gif</file>
+        <file>img/PotatoMine1.gif</file>
+        <file>img/PotatoMineBomb.gif</file>
+        <file>img/ZombiesWon.png</file>
+        <file>sound/Grazy Dave.mp3</file>
+        <file>sound/Grazy Dave.wav</file>
+    </qresource>
+</RCC>
